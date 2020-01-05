@@ -11,7 +11,7 @@
 4. 2017年及2018年教师工资情况变化的页面展示了2017-2018教师工资情况变化，使用了折线图和表格展示。[2017年及2018年教师工资情况变化](http://aqiangwansui.pythonanywhere.com/scatter)
 5. 2018年城镇工资各省对比的页面使用**文字云**展示了2018年城镇工资各省对比。[2018年城镇工资各省对比](http://aqiangwansui.pythonanywhere.com/diamond)
 6. 2018年教师工资水平各省对比的页面使用**文字云**展示了2018年教师工资水平各省对比。[2018年教师工资水平各省对比](http://aqiangwansui.pythonanywhere.com/wordcloud)
-7. 总结页面主要总结数据可视化的内容，得出最终的结论。[总结]（http://aqiangwansui.pythonanywhere.com/user）
+7. 总结页面主要总结数据可视化的内容，得出最终的结论。[总结](http://aqiangwansui.pythonanywhere.com/user)
 
 ***
 ### 😉 团队的分工
