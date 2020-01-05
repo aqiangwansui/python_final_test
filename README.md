@@ -1,6 +1,6 @@
 # 📣 技术文档之总结说明
 * [代码GitHub的URL](https://github.com/aqiangwansui/python_final_test/tree/master/the_code_of_python_final_test)
-* [pythonanywhere URL]()
+* [pythonanywhere URL](http://aqiangwansui.pythonanywhere.com/)
 
 ***
 ### ⛏ 页面的介绍
@@ -31,6 +31,6 @@
 ### webapp的动作描述
 3. 对于webapp的动作描述。
    * 在顶部导航栏设置了超链接，只要点击就可以跳转到想要的界面。
-   * 在总结页面设置了下拉选择框。
+   * 在前六个页面设置了下拉选择框。
 
 
